@@ -1,0 +1,44 @@
+	body {
+		margin: 0;
+		padding: 0;
+		}
+		
+		#banner {
+			padding-top: 850px;
+			color:#fff;
+			text-align: left;
+			word-spacing: 3px;
+			background-color: #b8b8b8;
+			width: 100%;
+			}	
+			
+		#banner h1 {
+			font-family: "Tahoma", Geneva, serif;
+			margin-top: 0px;
+			font-size: 5em;
+			text-align: center;
+			text-shadow: #7a7a7a 4px 3px 0px;
+			}
+			
+		#banner p {
+			background-color: #b8b8b8;
+			padding-top: 0.15em;
+			color: #fff;
+			width: 100%;
+			text-shadow: #7a7a7a 2px 1px 5px;
+			text-align: left;
+		}
+
+		canvas {
+			position: relative;
+		    padding-left: 0px;
+			padding-right: 0px;
+			padding-top: 20px;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			width: 800px;
+		}
+		
+		
+		
